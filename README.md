@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I am Arush Karekar</h1>
-- I am a Third Year Information Technology Student.
 
-- I am currently learning Web Development, Machine Learning and Data Science.
+### 🎓 I am a Third Year Information Technology Student.
+
+### 🌱 I am currently learning **Web Development, Machine Learning and Data Science.**
   
-- 📫 How to reach me: **arushhk@gmail.com** or [LinkedIn](https://www.linkedin.com/in/arush-karekar-b86a04245//)
+### 📫 How to reach me: **arushhk@gmail.com** or [LinkedIn](https://www.linkedin.com/in/arush-karekar-b86a04245/)
 
 
 <!--
