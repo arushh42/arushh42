@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Arush Karekar</h1>
 
-### 🎓 I am a Third Year Information Technology Student.
+### 🎓 I am a Final Year Information Technology Student.
 
 ### 🌱 I am currently learning **Web Development, Machine Learning and Data Science.**
   
