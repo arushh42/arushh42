@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I am Arush Karekar</h1>
 
-### 🎓 I am a Information Technology Student.
-
-### 🌱 I am currently learning **Web Development, Machine Learning and Data Science.**
   
 ### 📫 How to reach me: **arushhk@gmail.com** or [LinkedIn](https://www.linkedin.com/in/arush-karekar-b86a04245/)
 
