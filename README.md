@@ -24,20 +24,7 @@
 - 🏅 B.E. in Information Technology, University of Mumbai, with Distinction (CGPA 9.15 / 10)
 - 🌱 **Open to working student positions** in Darmstadt and around
 
----
-
-## Featured projects
-
-| Project | What it does | Highlights | Links |
-|---|---|---|---|
-| **DetectIT** | Weapon detection on live video, with an email alert when a weapon appears | Ensemble of 4 SSD detectors · mAP 0.838 · +2.948% over best single model | [Code](https://github.com/arushh42/DetectIT---SSD) · [Paper](https://arxiv.org/abs/2509.23697) |
-| **PrimeBid** | Full-stack MERN auction platform with bidders, auctioneers and an admin dashboard | Live bidding · leaderboard · commission and payment-proof flow · role-based access | [Live](https://primebid-xbwt.onrender.com/auctions) |
-| **Inkwell** | Publishing platform for essays, blog posts and research papers, built on Kirby CMS | Stories, papers and author pages · site-wide search · RSS · editor sign-in | [Live](https://inkwell-arush-2b94.vercel.app) |
-| **Cross-series forecasting** | Two weeks of hourly load forecast for 96 related units with one shared PyTorch model | WAPE 13.84% · 56% less error than seasonal baseline | No public link |
-| **Hindi hate speech detection** | Eight classifiers compared on Hindi text | Tuned SVM · 85.6% accuracy | [Code](https://github.com/arushh42/Hindi-Hate-Speech-Detector) |
-| **Next-frame prediction** | ConvLSTM network that predicts the next frames of Moving MNIST videos | Scored with MSE, SSIM and MAE | No public link |
-
-👉 More on my **[portfolio](https://arushkarekar-portfolio.vercel.app)** (also in [German](https://arushkarekar-portfolio.vercel.app/de))
+👉 See my projects on my **[portfolio](https://arushkarekar-portfolio.vercel.app)** (also in [German](https://arushkarekar-portfolio.vercel.app/de))
 
 ---
 
