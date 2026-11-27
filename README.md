@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-e0306f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://arushkarekar-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-e0306f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/arush-karekar-b86a04245/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:arushhk@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://arushkarekar.hashnode.dev"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"></a>
@@ -37,7 +37,7 @@
 | **Hindi hate speech detection** | Eight classifiers compared on Hindi text | Tuned SVM · 85.6% accuracy | [Code](https://github.com/arushh42/Hindi-Hate-Speech-Detector) |
 | **Next-frame prediction** | ConvLSTM network that predicts the next frames of Moving MNIST videos | Scored with MSE, SSIM and MAE | No public link |
 
-👉 More on my **[portfolio](https://YOUR-PORTFOLIO-URL)**
+👉 More on my **[portfolio](https://arushkarekar-portfolio.vercel.app)** (also in [German](https://arushkarekar-portfolio.vercel.app/de))
 
 ---
 
